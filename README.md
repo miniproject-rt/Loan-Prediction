@@ -9,16 +9,23 @@ However they still don't have assurance if the applicant is able to repay the lo
 We have made use of jupyter notebook for the implementation and we have made use of various algorithms along with graphs to so as to make the predicted result mor accurate.
 
 Table of Contents
-1.Getting the sytem ready and loading the data.
-2.Preprocessing the data
-3.Exploratory Data Analysis
-4.Model Building
+1.Libraries used
+2.Getting the sytem ready and loading the data.
+3.Preprocessing the data
+4.Exploratory Data Analysis
+5.Model Building
 i Decision Tree
 ii Random Forest
 iii Logistic Regression
-5.Confusion Matrix
+6.Confusion Matrix
 
-1. Getting the system ready and loading the data
+1. Libraries Used
+   . Numpy - NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+   . Pandas - Pandas is mainly used for data analysis. Pandas allows importing data from various file formats such as comma-separated values, JSON, SQL, Microsoft Excel. Pandas               allows various data manipulation operations such as merging, reshaping, selecting, as well as data cleaning, and data wrangling features.
+   . matplotlib.pyplot - Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy
+   . seaborn -  is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.      
+
+2. Getting the system ready and loading the data
 
 We have used python programming language along with the following list of libraries
 ->pandas
